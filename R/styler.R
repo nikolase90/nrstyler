@@ -1,3 +1,4 @@
+#' Style single file
 #' @export
 nr_style_file <- function(path, only_spaces = TRUE) {
 
@@ -8,6 +9,7 @@ nr_style_file <- function(path, only_spaces = TRUE) {
     }
 }
 
+#' Style package
 #' @export
 nr_style_pkg <- function(path) {
 
@@ -18,6 +20,7 @@ nr_style_pkg <- function(path) {
     }
 }
 
+#' Style directory
 #' @export
 nr_style_dir <- function(path) {
 

@@ -13,3 +13,4 @@ LazyData: true
 Imports: 
     styler,
     lintr
+RoxygenNote: 6.1.1
