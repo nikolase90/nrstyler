@@ -9,6 +9,8 @@
 status](https://travis-ci.org/nikolase90/nrstyler.svg?branch=master)](https://travis-ci.org/nikolase90/nrstyler)
 [![Lifecycle:
 experimental](https://img.shields.io/badge/lifecycle-experimental-orange.svg)](https://www.tidyverse.org/lifecycle/#experimental)
+[![License:
+MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 <!-- badges: end -->
 
 The goal of nrstyler is to …
