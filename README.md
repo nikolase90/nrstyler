@@ -5,6 +5,8 @@
 
 <!-- badges: start -->
 
+[![Travis build
+status](https://travis-ci.org/nikolase90/nrstyler.svg?branch=master)](https://travis-ci.org/nikolase90/nrstyler)
 <!-- badges: end -->
 
 The goal of nrstyler is to …
