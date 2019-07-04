@@ -1,7 +1,7 @@
 
 <!-- README.md is generated from README.Rmd. Please edit that file -->
 
-# nrstyler
+# nrstyler <img src='man/figures/logo.png' align="right" height="48" />
 
 <!-- badges: start -->
 
