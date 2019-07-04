@@ -1,4 +1,6 @@
 #' Style single file
+#' @param path Character
+#' @param only_spaces Logical
 #' @export
 nr_style_file <- function(path, only_spaces = TRUE) {
 
@@ -10,8 +12,10 @@ nr_style_file <- function(path, only_spaces = TRUE) {
 }
 
 #' Style package
+#' @param path Character
+#' @param only_spaces Logical
 #' @export
-nr_style_pkg <- function(path) {
+nr_style_pkg <- function(path, only_spaces = TRUE) {
 
     if (only_spaces) {
         styler::style_pkg(path, scope = "spaces")
@@ -21,8 +25,10 @@ nr_style_pkg <- function(path) {
 }
 
 #' Style directory
+#' @param path Character
+#' @param only_spaces Logical
 #' @export
-nr_style_dir <- function(path) {
+nr_style_dir <- function(path, only_spaces = TRUE) {
 
     if (only_spaces) {
         styler::style_file(path, scope = "spaces")

@@ -4,7 +4,12 @@
 \alias{nr_style_pkg}
 \title{Style package}
 \usage{
-nr_style_pkg(path)
+nr_style_pkg(path, only_spaces = TRUE)
+}
+\arguments{
+\item{path}{Character}
+
+\item{only_spaces}{Logical}
 }
 \description{
 Style package

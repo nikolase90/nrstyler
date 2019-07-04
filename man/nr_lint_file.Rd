@@ -4,7 +4,10 @@
 \alias{nr_lint_file}
 \title{Lint single file}
 \usage{
-nr_lint_file(path, only_spaces = TRUE)
+nr_lint_file(path)
+}
+\arguments{
+\item{path}{Character}
 }
 \description{
 Lint single file

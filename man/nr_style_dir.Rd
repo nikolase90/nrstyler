@@ -4,7 +4,12 @@
 \alias{nr_style_dir}
 \title{Style directory}
 \usage{
-nr_style_dir(path)
+nr_style_dir(path, only_spaces = TRUE)
+}
+\arguments{
+\item{path}{Character}
+
+\item{only_spaces}{Logical}
 }
 \description{
 Style directory

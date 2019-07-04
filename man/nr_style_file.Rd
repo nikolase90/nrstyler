@@ -6,6 +6,11 @@
 \usage{
 nr_style_file(path, only_spaces = TRUE)
 }
+\arguments{
+\item{path}{Character}
+
+\item{only_spaces}{Logical}
+}
 \description{
 Style single file
 }

@@ -6,6 +6,9 @@
 \usage{
 nr_lint_pkg(path)
 }
+\arguments{
+\item{path}{Character}
+}
 \description{
 Lint package
 }
