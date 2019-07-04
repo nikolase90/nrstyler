@@ -1,12 +1,13 @@
 Package: nrstyler
-Title: What the Package Does (One Line, Title Case)
+Title: Source code formatter used at Norwegian Computing Center
 Version: 0.0.0.9000
 Authors@R: 
     person(given = "Nikolai",
            family = "Sellereite",
            role = c("aut", "cre"),
            email = "Nikolai.Sellereite@nr.no")
-Description: What the package does (one paragraph).
+Description: nrstyler is a package to format R code according to a style guide that
+  is being used at Norwegian Computing Center.
 License: MIT + file LICENSE
 Encoding: UTF-8
 LazyData: true
