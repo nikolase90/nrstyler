@@ -1,0 +1,15 @@
+Package: nrstyler
+Title: What the Package Does (One Line, Title Case)
+Version: 0.0.0.9000
+Authors@R: 
+    person(given = "Nikolai",
+           family = "Sellereite",
+           role = c("aut", "cre"),
+           email = "Nikolai.Sellereite@nr.no")
+Description: What the package does (one paragraph).
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+Imports: 
+    styler,
+    lintr
